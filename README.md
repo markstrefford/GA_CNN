@@ -30,6 +30,7 @@ The following Python libraries are used:
 * EasyDict
 
 Also download the MPII dataset and annotations as described here:
+https://github.com/microsoft/human-pose-estimation.pytorch#data-preparation
 
 These need to be copied to `./data/mpii/annot/train.json`, `./data/mpii/annot/valid.json`, and `./data/mpii/images/`.
 
