@@ -12,8 +12,8 @@ Before running this, please be aware of the following caveats:
 1. This code needs a GPU. It was designed using an Nvidia RTX3070 with 8GB memory, and struggles to design networks with 
    more than 16 layers. There are definitely optimisations that can be made to the code to increase this.
    
-1. It takes a very long time to run. Typically, 100 generations can take 2 hours depending on the number of training 
-   samples.
+1. It takes a very long time to run. Typically, 100 generations can take several days depending on the number of training 
+   samples (MPII comes with 22000+ images).
 
 1. This code isn't fully tested, there are likely to be bugs or issues with it. If you find any, please raise an issue or provide a fix. 
 
