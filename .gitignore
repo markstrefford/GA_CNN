@@ -1,0 +1,15 @@
+.DS_Store
+.idea/
+models/
+node_modules/
+*.png
+*.jpg
+*.mp4
+*.xml
+.ipynb_checkpoints/
+*.zip
+*.pyc
+log/
+output/
+logs/
+*.pb
