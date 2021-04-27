@@ -51,12 +51,11 @@ Run the jupyter notebook at `./notebooks/GA_CNN_Designer.ipynb`.
 1. Look at how to improve memory utilisation in generating neural networks, specifically around padding and 
    concatenate layers.
 1. Make the code more generic and configurable for different use cases
-1. Add in different layer types, perhaps in a config file for easy adaptation
+1. Add in more layer types, perhaps in a config file for easy adaptation
 1. Improve early stopping, add patience > 1!
 1. Parameterize and script main loop
 1. Make model more likely to pick processing neurons rather than NOP
-1. Add in DepthWise Conv2d
-1. Replace padding layer with ZeroPadding2D  
+1. Replace padding layer with ZeroPadding2D? 
 1. Migrate notebook to script
 
 ### Citations
