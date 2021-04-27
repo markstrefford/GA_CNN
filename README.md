@@ -15,7 +15,7 @@ Before running this, please be aware of the following caveats:
 1. It takes a very long time to run. Typically, 100 generations can take 2 hours depending on the number of training 
    samples.
 
-1. 
+1. This code isn't fully tested, there are likely to be bugs or issues with it. If you find any, please raise an issue or provide a fix. 
 
 
 
